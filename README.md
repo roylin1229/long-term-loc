@@ -3,20 +3,20 @@ Accurate & Long-term Visual Localization Based on Points and Lines in Multiple C
 
 ![](https://github.com/roylin1229/long-term-loc/blob/main/img/demo.png)
 
-Legends:
-FL camera:    Front Left camera
-SL camera:    Side Left camera
-SR camera:    Side Right camera
-RR camera:    Rear Right camera
+Legends:  
+FL camera:    Front Left camera  
+SL camera:    Side Left camera  
+SR camera:    Side Right camera  
+RR camera:    Rear Right camera  
 
-off. corners: inlier of matched offline corners
-off. blobs:   inlier of matched offline blobs
-on. corners:  inlier of matched online corners
-on. blobs:    inlier of matched online blobs
-lines:        inlier of matched line segments
+off. corners: inlier of matched offline corners  
+off. blobs:   inlier of matched offline blobs  
+on. corners:  inlier of matched online corners  
+on. blobs:    inlier of matched online blobs  
+lines:        inlier of matched line segments  
 
-pos. diff.:   position difference 
-ori. diff.:   orientation difference
+pos. diff.:   position difference  
+ori. diff.:   orientation difference  
 
-Google drive: https://drive.google.com/file/d/19qzFdpgUVYDpJ3oguUbGxz_9ZodHLQik/view?usp=sharing
+Google drive: https://drive.google.com/file/d/19qzFdpgUVYDpJ3oguUbGxz_9ZodHLQik/view?usp=sharing  
 Baidu: https://pan.baidu.com/s/12r5GQMbo2DWDdlSy7rmkVg, password:gd97
