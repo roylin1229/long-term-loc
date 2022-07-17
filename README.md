@@ -3,5 +3,9 @@ Accurate & Long-term Visual Localization Based on Points and Lines in Multiple C
 
 Video demo for long-term visual localization
 
+Legend:
+
+
+
 Google drive: https://drive.google.com/file/d/19qzFdpgUVYDpJ3oguUbGxz_9ZodHLQik/view?usp=sharing
 Baidu: 
