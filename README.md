@@ -4,6 +4,7 @@ Accurate & Long-term Visual Localization Based on Points and Lines in Multiple C
 ![](https://github.com/roylin1229/long-term-loc/blob/main/img/demo.png)
 
 Legends:  
+IMU: Inertial Measurement Unit  
 FL camera:    Front Left camera  
 SL camera:    Side Left camera  
 SR camera:    Side Right camera  
