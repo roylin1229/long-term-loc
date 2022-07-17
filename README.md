@@ -1,7 +1,7 @@
 # Video demo for long-term visual localization
 Accurate & Long-term Visual Localization Based on Points and Lines in Multiple Cameras
 
-！(/img/demo.png)
+![](https://github.com/roylin1229/long-term-loc/blob/main/img/demo.png)
 
 Legends:
 
