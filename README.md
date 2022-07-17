@@ -1,7 +1,7 @@
 # Video demo for long-term visual localization
 Accurate & Long-term Visual Localization Based on Points and Lines in Multiple Cameras
 
-！/img/demo.png
+！(/img/demo.png)
 
 Legends:
 
