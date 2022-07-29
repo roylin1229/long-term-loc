@@ -1,2 +1,7 @@
-# Video demo for accurate & long-term visual localization
-Accurate & Long-term Visual Localization Based on Points and Lines in Multiple Cameras
+# Video demo
+Long-term Visual Localization with Centimeter-level Accuracy Using Illumination-insensitive Descriptor
+
+![](https://github.com/roylin1229/long-term-loc/blob/main/demo.png)  
+
+Google Drive: https://drive.google.com/file/d/1lCb7MfjJW-efj8v5cAzKerbDWSgEF4xi/view?usp=sharing  
+Baidu Drive: https://pan.baidu.com/s/1AnOi5Jxvfp26KzO8NdBqMQ, pwd:0qow
