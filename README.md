@@ -1,5 +1,5 @@
 # Video demo
-Long-term Visual Localization with Centimeter-level Accuracy Using Illumination-insensitive Descriptor
+Long-term Visual Localization with Illumination-insensitive Descriptor
 
 ![](https://github.com/roylin1229/long-term-loc/blob/main/demo.png)  
 
