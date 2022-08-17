@@ -1,5 +1,5 @@
 # Video demo
-Long-term Visual Localization with Illumination-insensitive Descriptor
+Long-term Visual Localization Using Illumination Insensitive Descriptors  
 
 ![](https://github.com/roylin1229/long-term-loc/blob/main/demo.png)  
 
